@@ -9,7 +9,7 @@ This is a repository for code and data of the research project on Positive Stres
 ## Background
 
 * We analysed over 400K company reviews to characterize companies in terms of four types of stress: negative stress, positive stress, passive, and low stress companies.
-* Our analysis reveals the links between the four stress types through time and a major financial crisis, as well as the link between a company stress type and its stock price.
+* Our analysis reveals the links between the four stress types through time and a major financial crisis, as well as the link between a company's stress type and its stock price.
   
 
 ## Structure
@@ -20,7 +20,7 @@ Code structure:
 * `analysis_temporal` produces temporal evolution of the four types of stress.
 * `analysis_linguistic` produces BERTopics describing each stress type in companies.
 * `analysis_stocks_growth` produces stock growth values across companies of the four stress types.
-* `data_exploration` produces data statistics and data represntativess analyses.
+* `data_exploration` produces data statistics and data representatives analyses.
 
 Data structure:
 
@@ -29,7 +29,7 @@ Data structure:
 
 Results structure:
 
-* all the plots and lingustic analysis are storeed in `results.
+* all the plots and linguistic analysis are stored in `results`.
 
 ## Running tests
 
