@@ -31,13 +31,7 @@ Results structure:
 
 * all the plots and linguistic analysis are stored in `results`.
 
-## Running tests
 
-Having installed the project's required packages using the `requirements.txt` file, you can run the repo's automated tests by using the command `pytest` at the root directory of the project. 
-
-Make sure the `pytest` package is installed in your developer environment by running `pip install -U pytest` at the root directory of the project. Then, run the `pytest` command. 
-
-A report will be generated indicating whether any of the tests are failing.
 
 ## Contact information
 email: sanjascepanovic@gmail.com
