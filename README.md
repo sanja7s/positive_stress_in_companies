@@ -2,16 +2,14 @@
 
 This is a repository for code and data of the research project on Positive Stress in S&P 500 Companies.
 
+* The research paper from this repository is available on [arxiv.org](https://arxiv.org/abs/2107.12362).
+
 ![Four Stress Types](/figures/quadrants.png?raw=true "Quadrants")
 
 ## Background
 
 * We analysed over 400K company reviews to characterize companies in terms of four types of stress: negative stress, positive stress, passive, and low stress companies.
 * Our analysis reveals the links between the four stress types through time and a major financial crisis, as well as the link between a company stress type and its stock price.
-
-For this template project:
-
-* The research paper from this repository is available on [arxiv.org](https://arxiv.org/abs/2107.12362).
   
 
 ## Structure
